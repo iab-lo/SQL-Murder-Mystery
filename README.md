@@ -1,6 +1,8 @@
 # SQL-Murder-Mystery
 Solution to solving a murder mystery case using SQL
 
+![Screenshot 2024-08-16 120259](https://github.com/user-attachments/assets/61b1aad6-04dc-4388-a2b0-70958eb12c1b)
+
 ## Table of Contents
 - [Project Objective](#project-objective)
 - [Entity Relationship Diagram](#entity-relationship-diagram)
